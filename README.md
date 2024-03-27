@@ -1,4 +1,5 @@
 ### Hi there 👋
+i begin royal game
 i am fine
 <!--
 **TimKor0/TimKor0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
